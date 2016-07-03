@@ -6,7 +6,16 @@ a {
   color: #00B7FF;
 }
 
+iframe {
+    border: 0;
+}
+
+.row {
+    text-align: center;
+}
+
 .video {
+    border: 0;
     position:relative;
     padding-bottom:56.25%;
     padding-top:30px;

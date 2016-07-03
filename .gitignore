@@ -31,3 +31,10 @@ npm-debug.log
 
 # Environments
 .env
+
+#Browserify
+/bundle.js
+
+
+.DS_Store
+/dist
