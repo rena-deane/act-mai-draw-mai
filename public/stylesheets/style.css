@@ -6,7 +6,44 @@ a {
   color: #00B7FF;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+
+iframe {
+    border: 0;
+    width: 560px;
+    height: 315px;
+}
+
+button {
+    border-radius: 50%;
+    font-size: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10em;
+    height: 10em;
+    padding: 0;
+}
+
+.nav-button {
+    text-align: center;
+}
+
+.rules-text {
+    display: none;
+    text-align: center;
+}
+
+.video-container{
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .video {
+    border: 0;
+    display: none;
     position:relative;
     padding-bottom:56.25%;
     padding-top:30px;
@@ -22,3 +59,5 @@ a {
     width:100%;
     height:100%;
 }
+
+
